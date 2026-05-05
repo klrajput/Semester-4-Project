@@ -1,0 +1,16 @@
+streamlit
+numpy
+scikit-learn
+librosa
+noisereduce
+sounddevice
+scipy
+soundfile
+pyyaml
+speechbrain
+torch
+torchaudio
+cryptography
+flair
+spacy
+torchcodec
